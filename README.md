@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🔭 CEO chez @heavenagency
 - 🌱 co-Founder chez MagicMorning à Lille
 - 👯 Photographe et réalisateur
-- 🤔 J'adore bidouillé les données
+- 🤔 J'adore bidouiller des données
