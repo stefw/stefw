@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 CEO chez @heavenagency
+- 🔭 head of research and CTO chez @heavenagency
 - 🌱 co-Founder chez MagicMorning à Lille
 - 👯 Photographe et réalisateur
 - 🤔 J'adore bidouiller des données
